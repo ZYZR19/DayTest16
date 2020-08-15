@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Test0709 {
     //算球的半径和体积
-    public static void main1(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x1 = sc.nextInt();
         int y1 = sc.nextInt();
